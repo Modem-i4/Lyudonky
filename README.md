@@ -1,10 +1,6 @@
-# A Blank PhoneGap App
+### Editing
 
-## Usage
-
-### PhoneGap CLI
-
-    $ phonegap create my-app --template blank
+To edit this project you need Cordova, Android Tools(from Android Studio) and Java 8.0 to be installed
 
 ### Desktop
 
