@@ -1,0 +1,32 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-camera": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "com.etc.lyudonky"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.etc.lyudonky"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.etc.lyudonky"
+    },
+    "cordova-plugin-geolocation": {
+      "GPS_REQUIRED": "true",
+      "PACKAGE_NAME": "com.etc.lyudonky"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.etc.lyudonky"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.etc.lyudonky"
+    }
+  },
+  "dependent_plugins": {}
+}

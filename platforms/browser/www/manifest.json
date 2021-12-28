@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "ТУТь",
+  "short_name": "ТУТь",
+  "version": "com.etc.tut",
+  "description": "Твоя турбота про твою локацію",
+  "author": "Etcetera Team",
+  "icons": [],
+  "start_url": "index.html"
+}
